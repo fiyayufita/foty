@@ -5,7 +5,7 @@
    Untuk dapat menghadiri acara festival, terlebih dahulu harus memesan tiket. Terdapat 3 tipe tiket, 
    dimana tiap tiket memiliki harga masing-masing sesuai jenisnya. 
    - Ticket --> Berisi daftar harga tiket berdasarkan tipe serta pemesanan tiket
-   - Series Of Events --> Berisi rangkaian acara Festival
+   - Events --> Berisi rangkaian acara Festival
 
 2. Design Pattern
    - Strategy Pattern --> Penerapan design pattern ini diimplemetasikan pada fitur Ticket
