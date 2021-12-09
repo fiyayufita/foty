@@ -1,2 +1,14 @@
-# foty
-Implemention od Strategy Pattern and Adapter Pattern
+# FOTY | FESTIVAL OF THE YEAR
+
+1. Overview
+    FOTY (Festival Of The Year) merupakan sebuah acara yang digelar setiap 
+	  tahunnya. Berbagai acara di gelar pada festival ini, seperti konser, expo, 
+	  pameran, dan lain-lain. Untuk dapat menghadiri acara festival, terlebih 
+	  dahulu harus memesan tiket. Terdapat 3 tipe tiket, dimana tiap tiket memiliki 
+	  harga masing-masing sesuai jenisnya. 
+	  1. Ticket --> Berisi daftar harga tiket berdasarkan tipe serta pemesanan tiket
+	  2. Series Of Events --> Berisi rangkaian acara Festival
+
+2. Design Pattern
+   1. Strategy Pattern --> Penerapan design pattern ini diimplemetasikan pada fitur Ticket
+   2. Adapter Pattern --> Penerapan design pattern ini diimplemetasikan pada fitur Series Of Events
