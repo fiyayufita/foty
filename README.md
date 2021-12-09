@@ -1,7 +1,7 @@
 # FOTY | Festival Of The Year
 
 1. Overview
-    FOTY (Festival Of The Year) merupakan sebuah acara yang digelar setiap 
+	FOTY (Festival Of The Year) merupakan sebuah acara yang digelar setiap 
 	  tahunnya. Berbagai acara di gelar pada festival ini, seperti konser, expo, 
 	  pameran, dan lain-lain. Untuk dapat menghadiri acara festival, terlebih 
 	  dahulu harus memesan tiket. Terdapat 3 tipe tiket, dimana tiap tiket memiliki 
