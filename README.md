@@ -1,4 +1,4 @@
-# FOTY | FESTIVAL OF THE YEAR
+# FOTY | Festival Of The Year
 
 1. Overview
     FOTY (Festival Of The Year) merupakan sebuah acara yang digelar setiap 
